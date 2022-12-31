@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "C PROGRAM STARTED"
+make -f Makefile all
+echo "END OF PROGRAM"
+make -f Makefile clean

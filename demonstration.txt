@@ -1,0 +1,36 @@
+beakal@beakal-VirtualBox:~/Documents/FALL 2022/OS/Assignment 2$ ./Readme
+C PROGRAM STARTED
+cc thread3520.c -lpthread
+./a.out 
+Hello. Enter the number of students.
+4
+Enter mark for assigment 1 for student 1: 50.45
+Enter mark for assigment 2 for student 1: 67.56
+Enter mark for assigment 3 for student 1: 58.87
+Enter mark for project 1 for student 1: 77.89
+Enter mark for midterm 1 for student 1: 77
+Enter mark for final 1 for student 1: 67.8
+Enter mark for assigment 1 for student 2: 55.4
+Enter mark for assigment 2 for student 2: 66.8
+Enter mark for assigment 3 for student 2: 98.58
+Enter mark for project 1 for student 2: 70
+Enter mark for midterm 1 for student 2: 69
+Enter mark for final 1 for student 2: 50
+Enter mark for assigment 1 for student 3: 45
+Enter mark for assigment 2 for student 3: 66
+Enter mark for assigment 3 for student 3: 57
+Enter mark for project 1 for student 3: 78
+Enter mark for midterm 1 for student 3: 56.78
+Enter mark for final 1 for student 3: 78.69
+Enter mark for assigment 1 for student 4: 45.6
+Enter mark for assigment 2 for student 4: 77.4
+Enter mark for assigment 3 for student 4: 66.8
+Enter mark for project 1 for student 4: 88.68
+Enter mark for midterm 1 for student 4: 45.76
+Enter mark for final 1 for student 4: 77.68
+----------------------------------------
+----------------------------------------------------
+THE HIGHEST MARK IS: 70.75 from Student 1
+END OF PROGRAM
+rm a.out
+beakal@beakal-VirtualBox:~/Documents/FALL 2022/OS/Assignment 2$ 
